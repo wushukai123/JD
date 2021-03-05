@@ -1,5 +1,5 @@
 # File: .github/workflows/repo-sync.yml
-name: 🔄自动同步🔄
+name: 同步
 on:
   schedule:
     - cron: '0 */1 * * *'
